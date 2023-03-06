@@ -1,0 +1,13 @@
+body {
+  background-color: #efefef;
+}
+
+main {
+  background-color: #fff;
+  padding: 1rem 0;
+}
+
+.footer {
+  background-color: #efefef;
+  padding: .5rem 1rem;
+}
